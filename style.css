@@ -228,9 +228,10 @@ nav ul li a {
 
 .menu-item {
   width: 260px;
-  margin: 0 auto;
+  margin: 5 auto;
   border-radius: 6px;
   overflow: hidden;
+  border: 1px solid black;
 }
 
 .menu-item img {
